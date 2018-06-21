@@ -1,5 +1,5 @@
 function add(a, b) {
-  return `parseInt(${parseInt(a)} + ${parseInt(b)})`;
+  return a + b;
 }
 
 function subtract(a, b) {
